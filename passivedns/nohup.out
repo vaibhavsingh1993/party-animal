@@ -1,0 +1,48 @@
+
+[*] PassiveDNS 1.2.1
+[*] By Edward Bjarte Fjellskål <edward.fjellskaal@gmail.com>
+[*] Using libpcap version 1.8.1
+[*] Using ldns version 1.7.0
+[*] Device: wlp4s0
+[*] Sniffing...
+
+
+-- Total DNS records allocated            :          82
+-- Total DNS assets allocated             :         165
+-- Total DNS packets over IPv4/TCP        :           0
+-- Total DNS packets over IPv6/TCP        :           0
+-- Total DNS packets over TCP decoded     :           0
+-- Total DNS packets over TCP failed      :           0
+-- Total DNS packets over IPv4/UDP        :         107
+-- Total DNS packets over IPv6/UDP        :           0
+-- Total DNS packets over UDP decoded     :         107
+-- Total DNS packets over UDP failed      :           0
+-- Total packets received from libpcap    :         214
+-- Total Ethernet packets received        :         214
+-- Total VLAN packets received            :           0
+
+[*] passivedns ended.
+
+[*] PassiveDNS 1.2.1
+[*] By Edward Bjarte Fjellskål <edward.fjellskaal@gmail.com>
+[*] Using libpcap version 1.8.1
+[*] Using ldns version 1.7.0
+[*] Device: wlp4s0
+[*] Sniffing...
+
+
+-- Total DNS records allocated            :          70
+-- Total DNS assets allocated             :         164
+-- Total DNS packets over IPv4/TCP        :           0
+-- Total DNS packets over IPv6/TCP        :           0
+-- Total DNS packets over TCP decoded     :           0
+-- Total DNS packets over TCP failed      :           0
+-- Total DNS packets over IPv4/UDP        :         109
+-- Total DNS packets over IPv6/UDP        :           0
+-- Total DNS packets over UDP decoded     :         109
+-- Total DNS packets over UDP failed      :           0
+-- Total packets received from libpcap    :         218
+-- Total Ethernet packets received        :         218
+-- Total VLAN packets received            :           0
+
+[*] passivedns ended.
