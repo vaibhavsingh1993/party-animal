@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+
+
+
+ <html class="no-js"> 
+<head>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>MarketPlace Login</title>
+    <link rel="shortcut icon" href="https://40huuk1e5l5qxr2m59m9x88c-wpengine.netdna-ssl.com/wp-content/themes/liveramp/favicon.ico" />
+    <link rel='stylesheet' id='main-css'  href='/static/stylesheets/login.min.css' type='text/css' media='screen' />
+    <link rel='stylesheet' href='/static/stylesheets/login-connect.css' type='text/css' media='screen' />
+</head>
+
+<body>
+    <div class="login-page">
+        <main role="main" id="main" class="content">
+            <section class="login-container">
+                <div class="login-form">
+                  <div class="logo-heading">
+                    <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIwLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxNTYgMzYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDE1NiAzNjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiM3RjlGQjQ7fQoJLnN0MXtmaWxsOiM3M0JGNjk7fQoJLnN0MntmaWxsOiNBMkQyOTY7fQoJLnN0M3tmaWxsOiMzQTdEM0Q7fQo8L3N0eWxlPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDcuMzgsMjMuODZjLTEuNTksMC4wNi0zLjE0LDAuMDgtNC41MywwLjA4Yy0zLjM3LDAtNi41My0wLjE3LTYuNTMtNC4zOFY0aDIuMTl2MTQuMwoJYzAsMy4xMiwwLjYsMy43OCw0LjI2LDMuNzhoNC42TDQ3LjM4LDIzLjg2eiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDguNTYsNS41OGMwLTEuMTIsMC4yOC0xLjUyLDEuMjQtMS41MnMxLjI1LDAuNCwxLjI1LDEuNTJzLTAuMjYsMS41LTEuMjUsMS41UzQ4LjU2LDYuNjksNDguNTYsNS41OHoKCSBNNDguNzcsOC43MWgyLjA3djE1LjE3aC0yLjA3VjguNzF6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02MS4yMSwyMi42MWMtMC4zOCwxLTAuODUsMS40Ny0xLjYyLDEuNDdzLTEuMy0wLjQ5LTEuNjctMS40N0w1Mi41OCw4LjdoMi4yMWw0LjgzLDEyLjkyTDY0LjUyLDguN2gyLjExCglMNjEuMjEsMjIuNjF6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02Ny4wNywxNi4yOWMwLTUuNTEsMS42NS03Ljc5LDYuNjQtNy43OWM1LjE0LDAsNi41MywyLjY4LDYuNTMsNi44NGMwLDAuNDMsMCwxLDAsMS40NAoJYy0xLjc0LDAuMjktNS4zMywwLjYzLTcuNDYsMC43MmwtMy42LDAuMTRjMC4yNiwzLjExLDEuMTksNC43LDUsNC43YzEuNzk0NC0wLjAyMDQxLDMuNTg1MjktMC4xNjQwOSw1LjM2LTAuNDNsMC4xOSwxLjY3CgljLTIuMTAyMTUsMC4zNDUzNS00LjIyOTcxLDAuNTEyNjEtNi4zNiwwLjVDNjguMzksMjQuMDksNjcuMDcsMjAuNzksNjcuMDcsMTYuMjl6IE03My4wNywxNS44OGMxLjMzLTAuMDYsMy42MS0wLjI0LDUtMC40MgoJYzAtMC4zMSwwLTAuNzUsMC0xLjA3YzAtMi41Ny0xLjEzLTQuMjEtNC40NC00LjIxYy0zLjgyLDAtNC42MiwyLTQuNjIsNS44OEw3My4wNywxNS44OHoiLz4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTg4LDIzLjg4aC00VjQuMzdjMi4xMzM2MS0wLjM2OCw0LjI5NDg5LTAuNTUyMDEsNi40Ni0wLjU1YzQuMzksMCw4LDAuODcsOCw2LjI0YzAsMy41MS0xLjQ3LDUuMTYtMy44MSw1Ljg3CglsNC41Myw4aC00LjY2bC00LjA3LTcuNDljLTAuODEsMC0xLjczLDAtMi40My0wLjA5TDg4LDIzLjg4eiBNODgsMTMuMWMwLjgxNDA5LDAuMDgwMDksMS42MzIxLDAuMTEzNDgsMi40NSwwLjEKCWMyLjUsMCw0LTAuNjQsNC0zLjE2YzAtMi4yLTEtMy4wOC0zLjg5LTMuMDhDODkuNzAzNjgsNi45NjQ4LDg4Ljg0ODU2LDcuMDI0OTMsODgsNy4xNFYxMy4xeiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTAwLjE0LDE5LjI1YzAtMi42OCwxLjE4LTQuMzUsNC4yLTQuODJjMS42MS0wLjIzOTk0LDMuMjMyODktMC4zODM1Myw0Ljg2LTAuNDNjMC0xLjc1LTAuODEtMi41NC0yLjc5LTIuNTQKCWMtMS43OTI5MiwwLjAyMTQxLTMuNTgyODcsMC4xNTE2NS01LjM2LDAuMzlsLTAuMzEtMi44MWMxLjk4MDA2LTAuMzYyMjQsMy45ODcyMi0wLjU1NjI2LDYtMC41OGMzLjM4LDAsNi4yLDAuOTUsNi4yLDQuODh2Ni40NgoJYzAsMSwwLDEuOTEtMC4xMywyLjg4Yy0yLjEwNzE0LDEuMDU4ODgtNC40NTU2NCwxLjU0NTE0LTYuODEsMS40MUMxMDEuNzksMjQuMDksMTAwLjE0LDIyLjQ2LDEwMC4xNCwxOS4yNXogTTEwOS4yLDE2LjUxCgljLTEuMTc0MDQsMC4wMTY3Mi0yLjM0NDcsMC4xMzA0NC0zLjUsMC4zNGMtMS4zMywwLjMyLTEuODQsMC43NS0xLjg0LDIuMzRzMC45MiwyLDIuNTcsMgoJYzAuOTExNDMsMC4wMzc3NiwxLjgyMTU0LTAuMTAxNDgsMi42OC0wLjQxYzAuMDY0MjEtMC42NjQ2OSwwLjA5NDI1LTEuMzMyMjMsMC4wOS0yVjE2LjUxeiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTE5LjEsMjMuODhoLTMuNzdWMTIuNzljMC0xLDAtMS45MSwwLjEzLTIuODhjMi4wMDM2Ny0wLjk2NjExLDQuMjA1OTItMS40NDkwMyw2LjQzLTEuNDEKCWMxLjI3OTA0LTAuMDc2NTEsMi41NTIyMSwwLjIyNjEzLDMuNjYsMC44N2MxLjQ4MzE2LTAuNTYxNywzLjA1NDA5LTAuODU2MjUsNC42NC0wLjg3YzQuODYsMCw1LjU3MDAxLDIuNjIsNS41NzAwMSw1LjcydjkuNjZIMTMyCgl2LTkuMzJjMC0yLTAuNDctMy0yLjYwMDAxLTNjLTAuNzQ3NDcsMC4wMTAzOC0xLjQ4NDAxLDAuMTgwODgtMi4xNiwwLjVjMC4xNDYyNCwwLjcxNzE2LDAuMjEzMzEsMS40NDgyLDAuMiwyLjE4djkuNjZoLTMuNzh2LTkuMzQKCWMwLTEuOTMtMC40NS0zLTIuNTItM2MtMC42NjM1LDAuMDAzOTUtMS4zMTk1OCwwLjEzOTkzLTEuOTMsMC40Yy0wLjA2NDIxLDAuNjY0NjktMC4wOTQyNSwxLjMzMjIzLTAuMDksMkwxMTkuMSwyMy44OHoiLz4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTE0Mi40NywzMWgtMy43OFYxMi43OWMtMC4wMDQ3OC0wLjk2MTU3LDAuMDM4NjItMS45MjI3NywwLjEzLTIuODhjMS44ODYwNS0wLjk3NTM0LDMuOTg3MjctMS40NjAyMyw2LjExLTEuNDEKCWM1LjA1LDAsNy4xNzk5OSwxLjgzLDcuMTc5OTksNy44cy0yLjA4LDcuNzktNi43NSw3Ljc5Yy0wLjk3NDk2LTAuMDA4OTYtMS45NDY1My0wLjExNjE3LTIuODk5OTktMC4zMkwxNDIuNDcsMzF6IE0xNDQuNjAwMDEsMjEuMQoJYzMuNjIsMCwzLjcyLTIsMy43Mi00LjgxYzAtMi40OC0wLjE0LTQuODMtMy4zOC00LjgzYy0wLjgwODI2LTAuMDE4NzUtMS42MTI2NywwLjExNzAxLTIuMzcsMC40CgljLTAuMDY0MzYsMC42NjQ2OC0wLjA5NDQxLDEuMzMyMjMtMC4wOSwydjYuODdDMTQzLjE2NjA5LDIwLjk1MTA3LDE0My44Nzk1OSwyMS4wNzU2LDE0NC42MDAwMSwyMS4xeiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNjcuNzQsMjkuMzJjMC40OTUyOS0wLjA4Nzk1LDAuOTk2OTktMC4xMzQ3OCwxLjUtMC4xNGMwLjg2LDAsMS41NiwwLjIzLDEuNTYsMS4yM3YxLjgyYzAsMC4yNSwwLDAuNDcsMCwwLjcKCWMtMC41Mzg2NywwLjI0NjA2LTEuMTI4NTIsMC4zNTkyMy0xLjcyLDAuMzNjLTEuMDcsMC0xLjUzLTAuMzctMS41My0xLjIxYy0wLjA3OTM4LTAuNjAyMywwLjM0NDUzLTEuMTU0OTIsMC45NDY4My0xLjIzNDMKCWMwLjAxNzY4LTAuMDAyMzMsMC4wMzU0LTAuMDA0MjMsMC4wNTMxNy0wLjAwNTdjMC41MjEwMy0wLjA2NDI4LDEuMDQ1MS0wLjEwMSwxLjU3LTAuMTF2LTAuMWMwLTAuNi0wLjIzLTAuODgtMS0wLjg4CgljLTAuNDU1MjYsMC4wMDY2OC0wLjkwOTU4LDAuMDQzNDMtMS4zNiwwLjExTDY3Ljc0LDI5LjMyeiBNNjkuMTUsMzIuNzRjMC4zNDA2MywwLjAxMzI1LDAuNjgwNTEtMC4wNDExMywxLTAuMTYKCWMwLTAuMTgsMC0wLjQsMC0wLjU4di0wLjgyYy0wLjQzODY1LTAuMDAyMjQtMC44NzY3NiwwLjAzMTIxLTEuMzEsMC4xYy0wLjQzLDAuMDktMC42MSwwLjI1LTAuNjEsMC43NnMwLjI3LDAuNjksMC45MSwwLjY5CglMNjkuMTUsMzIuNzR6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik03Mi41OSwzMy4yMWgtMC42OHYtM2MwLTAuMjUsMC0wLjQ3LDAtMC43YzAuNTY5MDctMC4yMzk4MSwxLjE4MjY3LTAuMzU1NzIsMS44LTAuMzQKCWMxLjM4LDAsMS41MiwwLjY1LDEuNTIsMS40NnYyLjU3aC0wLjY4di0yLjQ2YzAtMC43LTAuMTMtMS0xLTFjLTAuMzExMTYsMC4wMDA2Ny0wLjYxOTU4LDAuMDU4MjktMC45MSwwLjE3YzAsMC4xNywwLDAuNCwwLDAuNTgKCUw3Mi41OSwzMy4yMXoiLz4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTc4LjM4LDI5LjMyYzAuNDk4NTctMC4wODg1LDEuMDAzNjUtMC4xMzUzMywxLjUxLTAuMTRjMC44NiwwLDEuNTYsMC4yMywxLjU2LDEuMjN2MS44MmMwLDAuMjUsMCwwLjQ3LDAsMC43CgljLTAuNTM4NjcsMC4yNDYwNi0xLjEyODUyLDAuMzU5MjMtMS43MiwwLjMzYy0xLjA3LDAtMS41My0wLjM3LTEuNTMtMS4yMWMtMC4wNzkzOC0wLjYwMjMsMC4zNDQ1My0xLjE1NDkyLDAuOTQ2ODMtMS4yMzQzCgljMC4wMTc2OC0wLjAwMjMzLDAuMDM1NC0wLjAwNDIzLDAuMDUzMTctMC4wMDU3YzAuNTIxMDMtMC4wNjQyNiwxLjA0NTEtMC4xMDA5OCwxLjU3LTAuMTF2LTAuMWMwLTAuNi0wLjIzLTAuODgtMS0wLjg4CgljLTAuNDU1MjYsMC4wMDY2OC0wLjkwOTU4LDAuMDQzNDMtMS4zNiwwLjExTDc4LjM4LDI5LjMyeiBNNzkuNzksMzIuNzRjMC4zNDA2NCwwLjAxMzUyLDAuNjgwNTgtMC4wNDA4NywxLTAuMTYKCWMwLTAuMTgsMC0wLjQsMC0wLjU4di0wLjgyYy0wLjQzODY2LTAuMDAyMjgtMC44NzY3NywwLjAzMTE2LTEuMzEsMC4xYy0wLjQzLDAuMDktMC42MSwwLjI1LTAuNjEsMC43NnMwLjI4LDAuNjksMC45MiwwLjY5VjMyLjc0eiIKCS8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik04NS4xMywzMy4xNGMtMC4zNzA2NCwwLjA4NTMzLTAuNzQ5NjYsMC4xMjg5NC0xLjEzLDAuMTNjLTEuMzMsMC0xLjU3LTEtMS41Ny0yLjA5YzAtMS4zLDAuMy0yLDEuNzUtMgoJYzAuMzIxMTQtMC4wMDA3MSwwLjY0MDg1LDAuMDQzMDQsMC45NSwwLjEzbC0wLjA2LDAuNTFjLTAuMjI0MjUtMC4wNDI2OS0wLjQ1MTc1LTAuMDY2MTEtMC42OC0wLjA3Yy0xLjE2LDAtMS4yNywwLjM3LTEuMjcsMS40NAoJYzAsMS4wNywwLjA3LDEuNTEsMS4yNiwxLjUxYzAuMjI5MDEtMC4wMDgzNSwwLjQ1NjctMC4wMzg0OSwwLjY4LTAuMDlMODUuMTMsMzMuMTR6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik04OC42MiwyOS4yM2gwLjc0TDg4LDMxLjEzbDEuNDQsMi4wOGgtMC44bC0xLTEuNTVsLTEsMS41NWgtMC43NmwxLjQyLTIuMDdMODYsMjkuMjNoMC43OWwwLjkzLDEuNAoJTDg4LjYyLDI5LjIzeiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOTAuMjYsMjguMDljMC0wLjM0LDAuMS0wLjQ1LDAuNDEtMC40NXMwLjQyLDAuMTIsMC40MiwwLjQ1cy0wLjA5LDAuNDUtMC40MiwwLjQ1UzkwLjI2LDI4LjQzLDkwLjI2LDI4LjA5egoJIE05MC4zMywyOS4yM0g5MXY0aC0wLjY5TDkwLjMzLDI5LjIzeiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOTIsMzEuMjJjMC0xLjQ5LDAuNDctMiwxLjc2LTJzMS43NiwwLjU4LDEuNzYsMnMtMC40NywyLTEuNzYsMlM5MiwzMi43MSw5MiwzMS4yMnogTTk0LjgzLDMxLjIyCgljMC0xLjE0LTAuMjUtMS40OC0xLjA3LTEuNDhzLTEuMDcsMC4zLTEuMDcsMS40OGMwLDEuMTgsMC4yNiwxLjQ5LDEuMDcsMS40OXMxLjA5LTAuMzUsMS4wOS0xLjQ5SDk0LjgzeiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOTcuMjMsMzMuMjFoLTAuNjh2LTNjMC0wLjI1LDAtMC40NywwLTAuN2MwLjUyMTk3LTAuMjIxNzgsMS4wODI4OC0wLjMzNzM3LDEuNjUtMC4zNAoJYzAuMzU3MjctMC4wMjU4MywwLjcxMTk4LDAuMDc3MDMsMSwwLjI5YzAuNDM0OTUtMC4xOTEyLDAuOTA0ODgtMC4yODk5NiwxLjM4LTAuMjljMS4yMiwwLDEuNCwwLjY3LDEuNCwxLjQ2djIuNTdoLTAuNjh2LTIuNDcKCWMwLTAuNjgtMC4xNy0xLTAuOS0xYy0wLjMwOTcsMC4wMDM0My0wLjYxNDM3LDAuMDc4NzQtMC44OSwwLjIyYzAuMDU5MywwLjIyMTYzLDAuMDg2MjUsMC40NTA2NiwwLjA4LDAuNjh2Mi41N2gtMC42OHYtMi40NwoJYzAtMC42OC0wLjE3LTEtMC45LTFjLTAuMjY4MTksMC4wMDg2My0wLjUzMjU0LDAuMDY2MjQtMC43OCwwLjE3YzAsMC4xNywwLDAuNCwwLDAuNThWMzMuMjF6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMDcuNzQsMzMuMTRjLTAuMzcwNjQsMC4wODUzMy0wLjc0OTY2LDAuMTI4OTQtMS4xMywwLjEzYy0xLjMzLDAtMS41Ny0xLTEuNTctMi4wOWMwLTEuMywwLjMtMiwxLjc1LTIKCWMwLjMyMTE0LTAuMDAwNzEsMC42NDA4NSwwLjA0MzA0LDAuOTUsMC4xM2wtMC4wNiwwLjUxYy0wLjIyNDI1LTAuMDQyNjktMC40NTE3NS0wLjA2NjExLTAuNjgtMC4wN2MtMS4xNiwwLTEuMjcsMC4zNy0xLjI3LDEuNDQKCWMwLDEuMDcsMC4wNywxLjUxLDEuMjYsMS41MWMwLjIyOTAxLTAuMDA4MzUsMC40NTY3LTAuMDM4NDksMC42OC0wLjA5TDEwNy43NCwzMy4xNHoiLz4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTEwOC40LDMxLjIyYzAtMS40OSwwLjQ3LTIsMS43Ni0yczEuNzYsMC41OCwxLjc2LDJzLTAuNDcsMi0xLjc2LDJTMTA4LjQsMzIuNzEsMTA4LjQsMzEuMjJ6IE0xMTEuMjMsMzEuMjIKCWMwLTEuMTQtMC4yNS0xLjQ4LTEuMDctMS40OHMtMS4wNywwLjMtMS4wNywxLjQ4YzAsMS4xOCwwLjI1LDEuNDksMS4wNywxLjQ5UzExMS4yMywzMi4zNiwxMTEuMjMsMzEuMjJ6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMTMuNjEsMzMuMjFoLTAuNjh2LTNjMC0wLjI1LDAtMC40NywwLTAuN2MwLjUyMTk3LTAuMjIxNzgsMS4wODI4OC0wLjMzNzM3LDEuNjUtMC4zNAoJYzAuMzU3MjctMC4wMjU4MywwLjcxMTk4LDAuMDc3MDMsMSwwLjI5YzAuNDM0OTUtMC4xOTEyLDAuOTA0ODgtMC4yODk5NiwxLjM4LTAuMjljMS4yMiwwLDEuNCwwLjY3LDEuNCwxLjQ2djIuNTdoLTAuNjh2LTIuNDcKCWMwLTAuNjgtMC4xNy0xLTAuOS0xYy0wLjMwOTcsMC4wMDM0My0wLjYxNDM3LDAuMDc4NzQtMC44OSwwLjIyYzAuMDU5MywwLjIyMTYzLDAuMDg2MjUsMC40NTA2NiwwLjA4LDAuNjh2Mi41N2gtMC42OHYtMi40NwoJYzAtMC42OC0wLjE3LTEtMC45LTFjLTAuMjY4MTksMC4wMDg2My0wLjUzMjU0LDAuMDY2MjQtMC43OCwwLjE3YzAsMC4xNywwLDAuNCwwLDAuNThWMzMuMjF6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMjAuMjIsMzQuNjhoLTAuNjh2LTQuNDdjMC0wLjI1LDAtMC40NywwLTAuN2MwLjQ3NjQxLTAuMjMwMzYsMS4wMDA5OC0wLjM0MzUxLDEuNTMtMC4zMwoJYzEuMjksMCwxLjgyLDAuNDksMS44Miwycy0wLjUsMi0xLjcsMmMtMC4zMzczNC0wLjAwMzExLTAuNjczMDgtMC4wNDY3Ni0xLTAuMTNMMTIwLjIyLDM0LjY4eiBNMTIxLjAzLDMyLjY4CgljMS4wOCwwLDEuMi0wLjUzLDEuMi0xLjVzLTAuMTYtMS41LTEuMTQtMS41Yy0wLjI5MTE4LTAuMDAzOTctMC41ODAxOSwwLjA1MDQzLTAuODUsMC4xNmMwLDAuMTgsMCwwLjQsMCwwLjU4djIuMTIKCWMwLjI0MzY0LDAuMDk1MzQsMC40OTk0OCwwLjE1NTkzLDAuNzYsMC4xOEwxMjEuMDMsMzIuNjh6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMjMuOTIsMjkuMzJjMC40OTUyOS0wLjA4Nzk1LDAuOTk2OTktMC4xMzQ3OCwxLjUtMC4xNGMwLjg2LDAsMS41NiwwLjIzLDEuNTYsMS4yM3YxLjgyYzAsMC4yNSwwLDAuNDcsMCwwLjcKCWMtMC41Mzg2NywwLjI0NjA2LTEuMTI4NTIsMC4zNTkyMy0xLjcyLDAuMzNjLTEuMDcsMC0xLjUzLTAuMzctMS41My0xLjIxYy0wLjA3OTM4LTAuNjAyMywwLjM0NDUzLTEuMTU0OTIsMC45NDY4My0xLjIzNDMKCWMwLjAxNzY4LTAuMDAyMzMsMC4wMzU0LTAuMDA0MjMsMC4wNTMxNy0wLjAwNTdjMC41MjEwMy0wLjA2NDMsMS4wNDUxLTAuMTAxMDIsMS41Ny0wLjExdi0wLjFjMC0wLjYtMC4yMy0wLjg4LTEtMC44OAoJYy0wLjQ1NTI2LDAuMDA2NjgtMC45MDk1OCwwLjA0MzQzLTEuMzYsMC4xMUwxMjMuOTIsMjkuMzJ6IE0xMjUuMzMsMzIuNzRjMC4zNDA2NCwwLjAxMzUyLDAuNjgwNTgtMC4wNDA4NywxLTAuMTYKCWMwLTAuMTgsMC0wLjQsMC0wLjU4di0wLjgyYy0wLjQzODY1LTAuMDAyMjQtMC44NzY3NiwwLjAzMTIxLTEuMzEsMC4xYy0wLjQzLDAuMDktMC42MSwwLjI1LTAuNjEsMC43NnMwLjI4LDAuNjksMC45MSwwLjY5CglMMTI1LjMzLDMyLjc0eiIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTI4Ljc4LDMzLjIxaC0wLjY3OTk5di0zYzAtMC4yNSwwLTAuNDcsMC0wLjdjMC41NjkwNi0wLjIzOTgxLDEuMTgyNjYtMC4zNTU3MiwxLjgtMC4zNAoJYzEuMzgsMCwxLjUyLDAuNjUsMS41MiwxLjQ2djIuNTdoLTAuNjc5OTl2LTIuNDZjMC0wLjctMC4xMy0xLTEtMWMtMC4zMTExNywwLjAwMDY3LTAuNjE5NTgsMC4wNTgyOS0wLjkxLDAuMTdjMCwwLjE3LDAsMC40LDAsMC41OAoJTDEyOC43OCwzMy4yMXoiLz4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzNC45NCwyOS4yM2gwLjdsLTEuODUwMDEsNS40NWgtMC43bDAuNjEtMS43NGwtMS42MS0zLjcxaDAuNzNMMTM0LDMyLjA3TDEzNC45NCwyOS4yM3oiLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTMyLDE5Yy01LjUwOTUxLDMuMTE5NjQtMTEuNTY1MDYsNS4xNTYyNi0xNy44NCw2YzAuMDA3NjIsMC4xMjk4OSwwLjAwNzYyLDAuMjYwMTEsMCwwLjM5CgljNS43MjQ5NywyLjQzMjUyLDExLjcxMTA5LDQuMTk3NDksMTcuODQsNS4yNlYxOXoiLz4KPHBhdGggY2xhc3M9InN0MiIgZD0iTTMyLDE3LjMyVjQuMjRMMTMuNzQsMjMuMTdjMC4wNjM4NCwwLjExNjQ4LDAuMTIwNjEsMC4yMzY3LDAuMTcsMC4zNgoJQzIwLjI4OTM4LDIyLjY2ODM3LDI2LjQzNjQ1LDIwLjU1ODE4LDMyLDE3LjMyeiIvPgo8cGF0aCBjbGFzcz0ic3QzIiBkPSJNMTMuNTEsMjYuN2MtMC4zMjc0NCwwLjQ1NDUzLTAuNzY0MjUsMC44MTkxMS0xLjI3LDEuMDZjMC4yODc0NCwxLjg3NjE0LDAuNzgzODYsMy43MTQyNCwxLjQ4LDUuNDhIMzJ2LTEuMQoJQzI1LjY0NTY1LDMxLjA1Mzc5LDE5LjQ0MDE1LDI5LjIyODA1LDEzLjUxLDI2Ljd6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMC4zMiwyOGMtMC4zNDcwMy0wLjA0NjgtMC42ODQ1MS0wLjE0ODA0LTEtMC4zbC01LjMsNS41aDcuNTlDMTEuMDEwMywzMS41MTMyMywxMC41NzgyMSwyOS43NzE0OSwxMC4zMiwyOHoiCgkvPgo8L3N2Zz4K"></div>
+                    <h2>
+                      Log in to the LiveRamp Marketplace
+                    </h2>
+                    <form id=form method="POST" action="/api/auth/multi" class="wow fadeInUp" data-wow-delay="0.5s">
+                        <div id=errors style="padding-bottom:1em;color:red"></div>
+                        <input type="text" id="email" name="username"
+                          placeholder="Username" value="" required>
+
+                        <input type="password" id="psw" name="password"
+                          placeholder="Password "required>
+
+                        <input type="hidden" next="/dashboard/">
+                        <input class="button" id=submit type="submit" value="Sign in" class="">
+                    </form>
+
+                </div>
+
+            </section>
+
+        </main>
+
+    </div>
+
+<script>
+var AUTH_URL = '/api/auth/multi'
+</script>
+
+<script>
+function isAuthenticated(authData) {
+  try {
+    return authData.IsAuthenticated === true
+  } catch (err) {}
+  return false
+}
+
+function hasDashboardPermission(authData) {
+  try {
+    var user = authData.Session.user
+    return isAuthenticated(authData) && user.roles.indexOf('DASHBOARD') > -1
+  } catch (err) {}
+  return false
+}
+
+function redirectOnAuth(authData) {
+  if (hasDashboardPermission(authData)) {
+    window.location.href = '/dashboard/'
+  } else if (isAuthenticated(authData)) {
+    window.location.href = '/landing'
+  }
+}
+
+function checkAuth() {
+  var req = new XMLHttpRequest()
+  req.open('GET', AUTH_URL, true)
+  req.withCredentials = true
+  req.send()
+
+  req.onload = function(res) {
+    if (req.status >= 200 && req.status < 400) {
+      var authData = JSON.parse(req.responseText)
+      return redirectOnAuth(authData)
+    }
+  }
+
+  req.onerror = function() {
+    console.log('Error checking credentials.')
+  }
+}
+
+checkAuth()
+</script>
+
+<script>
+var form = document.getElementById('form')
+form.addEventListener('submit', function(ev) {
+  ev.preventDefault()
+  ev.stopPropagation()
+  var errors = form.querySelector('#errors')
+  var username = form.querySelector('#email')
+  var password = form.querySelector('#psw')
+  var data = { Username: username.value, Password: password.value }
+
+  function clearForm() {
+    username.value = ''
+    password.value = ''
+    username.focus()
+  }
+
+  function setError(html) {
+    errors.innerHTML = 'Invalid username or password.'
+    clearForm()
+  }
+
+  var req = new XMLHttpRequest()
+  req.open('POST', AUTH_URL, true)
+  req.setRequestHeader(
+    'Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8')
+  req.send(JSON.stringify(data))
+
+  req.onload = function() {
+    if (req.status >= 200 && req.status < 400) {
+      try {
+        var authData = JSON.parse(req.responseText)
+        return redirectOnAuth(authData)
+      } catch (err) {
+        console.log(err)
+        setError('There was an error when attempting to log in.')
+      }
+    } else if (req.status === 401) {
+      setError('Invalid username or password.')
+    } else if (req.status === 403) {
+      setError('You are not allowed to access this page.')
+    } else if (req.status >= 500) {
+      setError('A server error has occurred.')
+    } else {
+      setError('There was a problem with this log-in attempt.')
+    }
+  }
+
+  req.onerror = function() {
+    setError('There was an error.')
+  }
+})
+</script>
+
+</body>
+
+</html>

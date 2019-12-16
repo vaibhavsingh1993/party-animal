@@ -1,0 +1,7 @@
+www.googletagmanager.com, 15169
+beacon.krxd.net, 14618
+fonts.googleapis.com, 15169
+px.owneriq.net, 16625
+securepubads.g.doubleclick.net, 15169
+sync.ipredictive.com, 14618
+cdn.jsdelivr.net, 54113

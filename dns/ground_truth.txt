@@ -1,0 +1,173 @@
+Youtube
+
+fonts.gstatic.com, http://www.google.com/, Google, Content
+fonts.googleapis.com, http://www.google.com/, Google, Content
+static.doubleclick.net, http://www.google.com/, Google, Disconnect
+securepubads.g.doubleclick.net, http://www.google.com/, Google, Disconnect
+s.ytimg.com
+i.ytimg.com
+yt3.ggpht.com, http://www.google.com/, Google, Content
+googleads.g.doubleclick.net, http://www.google.com/, Google, Content
+ad.doubleclick.net, http://www.google.com/, Google, Content
+www.google.com, http://www.google.com/, Google, Content
+tag.researchnow.com, http://www.researchnow.com/, Research Now, Analytics
+
+
+cnn
+
+match.adsrvr.org, http://thetradedesk.com/, The Trade Desk, Advertising
+static.chartbeat.com, http://chartbeat.com/, Chartbeat, Analytics
+cm.g.doubleclick.net, http://www.google.com/, Google, Content
+us-central1-octane-216112.cloudfunctions.net, 
+pagead2.googlesyndication.com, http://www.google.com/, Google, Disconnect
+cdn.adsafeprotected.com, https://integralads.com/, Integral Ad Science, Advertising
+adservice.google.com, http://www.google.com/, Google, Disconnect
+cookie.brealtime.com, brealtime.com, https://emxdigital.com/, EMX, Advertising
+image2.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+code.jquery.com, 
+pr-bh.ybp.yahoo.com
+static.ads-twitter.com, https://twitter.com/, Twitter, Disconnect
+pm.w55c.net, http://www.dataxu.com/, DataXu, Advertising
+static.criteo.net,  http://www.criteo.com/, Criteo, Advertising
+odr.mookie1.com,  http://www.wpp.com/, WPP, Advertising
+code.createjs.com
+mid.rkdms.com, https://www.merkleinc.com/, Merkle, Advertising+Analytics
+a125375509.cdn.optimizely.com, https://www.optimizely.com/, Optimizely, Analytics
+events.bouncex.net, https://www.bouncex.com/, Bouncex, Advertising
+cdn.segment.com
+rtb.mfadsrvr.com, https://www.bidswitch.com/, BidSwitch, Advertising
+match.zorosrv.com
+ads.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+mcdp-nydc1.outbrain.com, http://www.outbrain.com/, Outbrain, Advertising
+ad.turn.com, http://amobee.com/, Amobee, Advertising
+dis.criteo.com, http://www.criteo.com/, Criteo, Advertising
+a.tribalfusion.com, http://www.exponential.com/, Exponential Interactive, Advertising
+api.rlcdn.com, http://www.rapleaf.com/, Rapleaf, Advertising
+acdn.adnxs.com, http://www.appnexus.com/, AppNexus, Advertising
+pippio.com, http://www.acxiom.com/, Acxiom, Analytics
+p.adsymptotic.com, http://drawbrid.ge/, Drawbridge, Advertising
+logx.optimizely.com, https://www.optimizely.com/, Optimizely, Analytics
+geolocation.onetrust.com
+widgets.outbrain.com, http://www.outbrain.com/, Outbrain, Advertising
+pixel.tapad.com, http://www.tapad.com/, Tapad, Advertising
+rtb.adentifi.com
+bea4.v.fwmrm.net, http://www.freewheel.tv/, FreeWheel, Content
+cdn3.optimizely.com, https://www.optimizely.com/, Optimizely, Analytics
+s.amazon-adsystem.com, http://www.amazon.com/, Amazon.com, Advertising
+pixel.quantserve.com, http://www.quantcast.com/, Quantcast, Advertising
+um.simpli.fi, http://www.simpli.fi/, Simpli.fi, Advertising
+sync.outbrain.com, http://www.outbrain.com/, Outbrain, Advertising
+cr-pall.ladsp.com
+tcheck.outbrainimg.com, http://www.outbrain.com/, Outbrain, Advertising
+cdn.jsdelivr.net
+dpm.demdex.net, http://www.adobe.com/, Adobe, Advertising
+rtb-csync.smartadserver.com, http://www.horyzon-media.com/, Horyzon Media, Advertising
+rp.gwallet.com, http://www.radiumone.com/, RadiumOne, Advertising
+sb.scorecardresearch.com, http://www.comscore.com/, comScore, Analytics
+match.taboola.com, https://www.taboola.com/, Taboola, Advertising
+w.usabilla.com
+cdn.krxd.net, http://www.krux.com/, Krux, Advertising
+ads.yieldmo.com,  https://yieldmo.com, Yieldmo, Advertising
+maxcdn.bootstrapcdn.com
+api.segment.io, https://segment.io/, Segment.io, Analytics
+ps.eyeota.net, http://eyeota.net/, Eyeota, Analytics
+ml314.com, https://bombora.com/, Bombora, Analytics
+image6.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+aa.agkn.com, http://www.aggregateknowledge.com/, AK, Advertising
+widgets.tree.com
+cdnjs.cloudflare.com
+pixel.rubiconproject.com, http://rubiconproject.com/, RubiconProject, Advertising
+cookiex.ngd.yahoo.com, http://yahoo.com/, Yahoo, ??
+www.summerhamster.com
+bh.contextweb.com, http://www.contextweb.com/, CONTEXTWEB, Advertising
+cm.adgrx.com, http://bloom-hq.com/, BLOOM Digital Platforms, Advertising
+match.rundsp.com, http://www.runads.com/, RunAds, Advertising
+ib.adnxs.com, http://www.appnexus.com/, AppNexus, Advertising
+cr-p10.ladsp.jp
+px.owneriq.net, http://www.owneriq.com/, OwnerIQ, Advertising
+sync.mathtag.com, http://www.mediamath.com/, MediaMath, Advertising+Fingerprinting
+ads.yahoo.com, http://yahoo.com/, Yahoo, Advertising
+pubmatic-match.dotomi.com, http://conversantmedia.com, ConversantMedia, Advertising
+static.adsafeprotected.com, https://integralads.com/, Integral Ad Science, Advertising
+js-sec.indexww.com
+trc.taboola.com, https://www.taboola.com/, Taboola, Advertising
+eus.rubiconproject.com, http://rubiconproject.com/, RubiconProject, Advertising
+ads.playground.xyz
+analytics.twitter.com, https://twitter.com/, Twitter, Disconnect
+www.ugdturner.com
+match.prod.bidr.io, http://bidr.io, Bidr, Advertising
+us-u.openx.net, http://openx.com/, OpenX, Advertising
+usermatch.krxd.net,http://www.krux.com/, Krux, Advertising
+dt.adsafeprotected.com, https://integralads.com/, Integral Ad Science, Advertising
+c1.adform.net, http://www.adform.com/, Adform, Advertising
+ade.googlesyndication.com, http://www.google.com/, Google, Disconnect
+amplify.outbrain.com, http://www.outbrain.com/, Outbrain, Advertising
+px.adhigh.net, http://getintent.com/, GetIntent, Advertising
+rtb.gumgum.com, http://gumgum.com/, GumGum, Advertising
+bat.bing.com, http://www.microsoft.com/, Microsoft, Content
+www.google.com, http://www.google.com/, Google, Content
+www.googletagservices.com, http://www.google.com/, Google, Disconnect
+pmp.mxptint.net, http://maxpointinteractive.com/, MaxPoint, Advertising
+image4.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+b1sync.zemanta.com, http://www.zemanta.com/, Zemanta, Advertising
+securepubads.g.doubleclick.net, http://www.google.com/, Google, Disconnect
+consumer.krxd.net, http://www.krux.com/, Krux, Advertising
+img.macromill.com
+sync.resetdigital.co:10001
+hbopenbid.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+c.amazon-adsystem.com, http://www.amazon.com/, Amazon.com, Advertising
+c.bing.com, http://www.microsoft.com/, Microsoft, Content
+cm.eyereturn.com, http://www.eyereturnmarketing.com/, eyeReturn Marketing, Advertising
+m.adnxs.com, http://www.appnexus.com/, AppNexus, Advertising
+cdn.ampproject.org
+dt.scanscout.com, http://www.tremorvideo.com/, Tremor Video, Advertising
+connect.facebook.net, http://www.facebook.com/, Facebook, Disconnect
+pixel-sync.sitescout.com
+simage2.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+token.rubiconproject.com, http://rubiconproject.com/, RubiconProject, Advertising
+cms.quantserve.com
+p.rfihub.com, http://rocketfuel.com/, Rocket Fuel, Advertising
+beacon.krxd.net, http://www.krux.com/, Krux, Advertising
+bidder.criteo.com, http://www.criteo.com/, Criteo, Advertising
+pubmatic2waycm-atl.netmng.com, http://www.netmining.com/, Netmining, Advertising
+idsync.rlcdn.com, http://www.rapleaf.com/, Rapleaf, Advertising
+sync-tm.everesttech.net, http://www.adobe.com/, Adobe, Advertising
+img.bleacherreport.net
+s0.2mdn.net, http://www.google.com/, Google, Disconnect
+x.bidswitch.net, https://www.bidswitch.com/, BidSwitch, Advertising
+googleads.g.doubleclick.net, http://www.google.com/, Google, Disconnect
+r.dlx.addthis.com, http://www.addthis.com/, AddThis, Social
+z.moatads.com, http://www.moat.com/, Moat, Advertising
+googleads4.g.doubleclick.net, http://www.google.com/, Google, Disconnect
+cx.atdmt.com, http://www.facebook.com/, Facebook, Disconnect
+assets.bounceexchange.com, https://www.bouncex.com/, Bouncex, Advertising
+stags.bluekai.com, http://www.bluekai.com/, BlueKai, Advertising
+t.co
+ad.doubleclick.net, http://www.google.com/, Google, Disconnect
+sync.ipredictive.com, https://adelphic.com/, Adelphic, Advertising
+pixel.adsafeprotected.com, https://integralads.com/, Integral Ad Science, Advertising
+simage4.pubmatic.com, http://www.pubmatic.com/, PubMatic, Advertising
+secure.adnxs.com, http://www.appnexus.com/, AppNexus, Advertising
+sync.search.spotxchange.com, http://www.spotxchange.com/, SpotXchange, Advertising
+cdn.cookielaw.org
+www.googletagmanager.com
+inv-nets.admixer.net, https://admixer.co.kr/main, Admixer, Advertising
+tag.bounceexchange.com, https://www.bouncex.com/, Bouncex, Advertising
+r.nexac.com, http://www.datalogix.com/, Datalogix, Advertising
+tags.rd.linksynergy.com, http://www.linkshare.com/, LinkShare, Advertising
+tpc.googlesyndication.com, http://www.google.com/, Google, Disconnect
+sync.1rx.io, http://rhythmnewmedia.com/, Rhythm, Advertising
+
+
+Amazon
+
+d23tl967axkois.cloudfront.net, http://www.amazon.com/, Amazon.com, Content
+usher.ttvnw.net
+cvp.twitch.tv
+spade.twitch.tv
+video-weaver.iad03.hls.ttvnw.net
+ads.stickyadstv.com, http://www.freewheel.tv/, FreeWheel, Advertising
+d2in0p32vp1pij.cloudfront.net
+www.imdb.com
+
+TODO: Go through all links, find interesting stuff
